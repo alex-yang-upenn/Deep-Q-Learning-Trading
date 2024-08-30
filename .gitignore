@@ -1,0 +1,3 @@
+.env/
+__pycache__/
+sp500_historical_data_yfinance.csv

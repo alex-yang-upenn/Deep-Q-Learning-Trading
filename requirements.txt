@@ -1,0 +1,13 @@
+IPython
+ipykernel
+ipywidgets
+jupyter-contrib-nbextensions
+keras
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+tensorflow
+tqdm
+yfinance
